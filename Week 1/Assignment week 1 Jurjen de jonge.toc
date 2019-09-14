@@ -1,0 +1,11 @@
+\contentsline {chapter}{\numberline {1}Assignments}{2}
+\contentsline {section}{\numberline {1.1}What is the first HTTP traffic is showing?}{2}
+\contentsline {section}{\numberline {1.2}Identify all traffic generated using Mozilla compatible browsers}{2}
+\contentsline {section}{\numberline {1.3}Explain what is happening from frame 9 to frame 41}{2}
+\contentsline {section}{\numberline {1.4}Explain why frame 42 is out of order?}{2}
+\contentsline {section}{\numberline {1.5}dentify all HTTP servers which support encrypted communications (i.e. ssl)}{3}
+\contentsline {section}{\numberline {1.6} Identify Server Software Version running}{3}
+\contentsline {subsection}{\numberline {1.6.1}69.22.167.239}{3}
+\contentsline {subsection}{\numberline {1.6.2}18.7.22.69}{3}
+\contentsline {subsection}{\numberline {1.6.3}66.150.96.119}{3}
+\contentsline {section}{\numberline {1.7} Find all Google searches recorded in the given network traffic}{3}
